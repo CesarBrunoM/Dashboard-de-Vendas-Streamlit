@@ -1,0 +1,28 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Base gerada localmente (o app gera em memória se o arquivo não existir)
+data/*.csv
+data/*.xlsx
+
+# Streamlit (segredos nunca devem ir para o repositório)
+.streamlit/secrets.toml
+
+# Variáveis de ambiente
+.env
+
+# IDEs e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
