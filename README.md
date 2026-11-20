@@ -2,6 +2,10 @@
 
 Dashboard interativo de vendas de um e-commerce fictício, feito com Streamlit, Pandas e Plotly. A base de dados é gerada com Faker, então o projeto roda sem depender de API externa nem de dados reais.
 
+**Acesse a aplicação online:** [dashboard-de-vendas-bruno-lima.streamlit.app](https://dashboard-de-vendas-bruno-lima.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboard-de-vendas-bruno-lima.streamlit.app/)
+
 ## Telas
 
 Página principal com os KPIs, o mapa de receita por estado, a evolução mensal comparando 2023, 2024 e 2025 e os rankings de estados e categorias:
